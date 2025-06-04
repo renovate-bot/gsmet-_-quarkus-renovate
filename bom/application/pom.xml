@@ -4197,7 +4197,7 @@
             </dependency>
             <dependency>
                 <!-- NOTE: this dependency is here to cause relocations to work; DO NOT MODIFY -->
-                <groupId>io.smallrye</groupId>
+                <groupId>io.smallrye.config</groupId>
                 <artifactId>smallrye-config-common</artifactId>
                 <!-- This is intentionally hard-coded -->
                 <version>1.5.0</version>
