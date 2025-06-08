@@ -28,7 +28,7 @@
         <resteasy-spring-web.version>3.0.2.Final</resteasy-spring-web.version>
         <resteasy.version>6.2.4.Final</resteasy.version>
         <opentracing.version>0.33.0</opentracing.version>
-        <opentracing-jdbc.version>0.2.4</opentracing-jdbc.version>
+        <opentracing-jdbc.version>0.2.15</opentracing-jdbc.version>
         <opentracing-kafka.version>0.1.15</opentracing-kafka.version>
         <opentracing-mongo.version>0.1.5</opentracing-mongo.version>
         <opentelemetry.version>1.28.0</opentelemetry.version>
