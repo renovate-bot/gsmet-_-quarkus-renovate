@@ -223,7 +223,7 @@
         <mime4j.version>0.8.9</mime4j.version>
         <mutiny-zero.version>1.0.0</mutiny-zero.version>
         <pulsar-client.version>3.0.0</pulsar-client.version>
-        <async-http-client.version>2.12.3</async-http-client.version>
+        <async-http-client.version>2.12.4</async-http-client.version>
         <!-- Dev UI -->
         <importmap.version>1.0.8</importmap.version>
         <vaadin.version>24.1.4</vaadin.version>
