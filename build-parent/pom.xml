@@ -43,7 +43,7 @@
         <subethasmtp.version>6.0.1</subethasmtp.version>
 
         <!-- Dev tools -->
-        <freemarker.version>2.3.32</freemarker.version>
+        <freemarker.version>2.3.34</freemarker.version>
         <commonmark.version>0.21.0</commonmark.version>
 
         <!-- Arquillian BOM -->
