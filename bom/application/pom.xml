@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <angus-activation.version>2.0.1</angus-activation.version>
+        <angus-activation.version>2.0.3</angus-activation.version>
         <bouncycastle.version>1.75</bouncycastle.version>
         <bouncycastle.fips.version>1.0.2.3</bouncycastle.fips.version>
         <bouncycastle.tls.fips.version>1.0.16</bouncycastle.tls.fips.version>
