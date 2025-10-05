@@ -78,7 +78,7 @@
         <mutiny-zero.version>1.0.0</mutiny-zero.version>
 
         <!-- Forbidden API checks -->
-        <forbiddenapis-maven-plugin.version>3.4</forbiddenapis-maven-plugin.version>
+        <forbiddenapis-maven-plugin.version>3.10</forbiddenapis-maven-plugin.version>
     </properties>
 
     <modules>
