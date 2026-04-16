@@ -212,7 +212,7 @@
         <com.dajudge.kindcontainer>1.3.0</com.dajudge.kindcontainer>
         <aesh.version>2.7</aesh.version>
         <aesh-readline.version>2.4</aesh-readline.version>
-        <jansi.version>2.4.0</jansi.version> <!-- Keep in sync with aesh-readline and dekorate -->
+        <jansi.version>2.4.3</jansi.version> <!-- Keep in sync with aesh-readline and dekorate -->
         <jgit.version>6.6.0.202305301015-r</jgit.version>
         <!-- these two artifacts needs to be compatible together -->
         <strimzi-oauth.version>0.12.0</strimzi-oauth.version>
