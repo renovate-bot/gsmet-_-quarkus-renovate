@@ -69,7 +69,7 @@
         <dependency>
             <groupId>com.aayushatharva.brotli4j</groupId>
             <artifactId>brotli4j</artifactId>
-            <version>1.7.1</version> <!-- TODO Extract this version -->
+            <version>1.23.0</version> <!-- TODO Extract this version -->
         </dependency>
     </dependencies>
 
