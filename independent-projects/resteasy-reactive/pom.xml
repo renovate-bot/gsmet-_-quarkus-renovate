@@ -70,7 +70,7 @@
         <jackson-bom.version>2.15.2</jackson-bom.version>
         <smallrye-stork.version>2.3.1</smallrye-stork.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
-        <yasson.version>3.0.3</yasson.version>
+        <yasson.version>3.0.5</yasson.version>
         <jakarta.json.bind-api.version>3.0.0</jakarta.json.bind-api.version>
         <awaitility.version>4.2.0</awaitility.version>
         <smallrye-mutiny-vertx-core.version>3.4.2</smallrye-mutiny-vertx-core.version>
